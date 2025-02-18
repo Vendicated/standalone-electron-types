@@ -2,15 +2,20 @@
   "name": "standalone-electron-types",
   "version": "1.0.0",
   "description": "Electron typings extracted from the electron package",
-  "keywords": [],
+  "keywords": [
+    "electron",
+    "types",
+    "typescript"
+  ],
   "license": "MIT",
   "author": "Vendicated <vendicated+npm@riseup.net>",
   "main": "index.js",
   "types": "electron.d.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "dependencies": {
     "@types/node": "^22.13.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vendicated/standalone-electron-types.git"
   }
 }
