@@ -1,0 +1,16 @@
+{
+  "name": "standalone-electron-types",
+  "version": "1.0.0",
+  "description": "Electron typings extracted from the electron package",
+  "keywords": [],
+  "license": "MIT",
+  "author": "Vendicated <vendicated+npm@riseup.net>",
+  "main": "index.js",
+  "types": "electron.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/node": "^18.8.4"
+  }
+}
