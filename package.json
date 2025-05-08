@@ -1,6 +1,6 @@
 {
   "name": "standalone-electron-types",
-  "version": "34.2.0",
+  "version": "36.2.0",
   "description": "Electron typings extracted from the electron package",
   "keywords": [
     "electron",
@@ -12,7 +12,7 @@
   "main": "index.js",
   "types": "electron.d.ts",
   "dependencies": {
-    "@types/node": "^22.13.4"
+    "@types/node": "^22.15.17"
   },
   "repository": {
     "type": "git",
